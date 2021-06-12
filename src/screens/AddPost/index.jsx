@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import { useHistory } from "react-router";
+import { useHistory } from "react-router-dom";
 
 import Header from "../../components/Header";
 import AppLoading from "../../components/AppLoading";
